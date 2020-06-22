@@ -234,6 +234,21 @@
           "TTL",
           "Limits"
         ]
+      },
+      {
+        "docID": "faunadb",
+        "docTitle": "FaunaDB",
+        "description": "How to use FaunaDB as your app's database",
+        "sections": [
+          "Overview",
+          "Tables & keys",
+          "Read documents",
+          "Create & update documents",
+          "Destroy documents",
+          "Helpers",
+          "TTL",
+          "Limits"
+        ]
       }
     ]
   },

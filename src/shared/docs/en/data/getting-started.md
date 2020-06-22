@@ -25,7 +25,7 @@ Your Begin app can connect to AWS database systems, such as DynamoDB, although t
 
 [FaunaDB](https://fauna.com) also offers a great, scalable, highly distributed cloud database solution as well.
 
-Learn more about integrating [Fauna with Begin here](https://fauna.com/blog/using-faunadb-with-begin-com).
+Learn more about integrating [Fauna with Begin here](/en/data/faunadb).
 
 
 ## Firebase
