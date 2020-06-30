@@ -241,6 +241,7 @@
         "description": "How to use FaunaDB as your app's database",
         "sections": [
           "Overview",
+          "Getting started",
           "Tables & keys",
           "Read documents",
           "Create & update documents",
@@ -364,6 +365,26 @@
         "description": "Build a simple yet powerful CRUD app that persists data with Begin Data",
         "icon": "circle-begin.svg",
         "background": "gradient-green-blue.png",
+        "sections": [
+          "Introduction",
+          "Prerequisites",
+          "Getting started",
+          "Your first deploy",
+          "Get set up locally",
+          "Project structure",
+          "Add Begin Data",
+          "Begin Data in action",
+          "Deploy your site",
+          "Additional resources"
+        ]
+      },
+      {
+        "docType": "Tutorial",
+        "docID": "faunadb",
+        "docTitle": "CRUD app with FaunaDB",
+        "description": "Build a simple yet powerful CRUD app that persists data with FaunaDB",
+        "icon": "circle-fauna.svg",
+        "background": "gradient-pink-purple.png",
         "sections": [
           "Introduction",
           "Prerequisites",
